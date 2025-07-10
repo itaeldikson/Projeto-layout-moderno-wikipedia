@@ -1,2 +1,2 @@
 # Projeto-layout-moderno-wikipedia
-projeto brasico do wikipedia
+projeto basico do wikipedia
